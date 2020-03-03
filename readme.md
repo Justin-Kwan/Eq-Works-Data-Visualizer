@@ -7,3 +7,17 @@ A simple data visualization web-app that displays API data from EQ-Works API, bu
 
 ![Image description](Multiline-Chart.png)
 ![Image description](Donut-Chart.png)
+
+## Runnning Locally
+
+  # Clone this repo by typing into your terminal
+  $ git clone https://github.com/Justin-Kwan/EQ-Works-Data-Visualizer
+  
+  # Install npm dependencies
+  $ npm install
+  
+  # Build application (Production)
+  $ npm run build
+  
+  # Run application
+  $ npm run start
