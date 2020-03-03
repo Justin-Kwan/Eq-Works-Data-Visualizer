@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 class RemoteApi {
 
   fetchJsonData(url) {
-    var promise = new Promise(function(resolve, reject) {
+    let promise = new Promise(function(resolve, reject) {
       fetch(url, {
           method: 'GET',
           headers: {
