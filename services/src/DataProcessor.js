@@ -104,7 +104,6 @@ class DataProcessor {
   /**
    * processJsonByField parses and returns data from unparsed JSON, given a field,
    * fieldName
-   * chart type data is used for
    * @param {JSON Array} - JSON array of unparsed data
    * @param {String} - String representing the chart type data is used for
    * @return {Array} - Array of string values
