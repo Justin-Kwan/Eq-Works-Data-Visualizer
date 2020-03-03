@@ -1,0 +1,16 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "3.2.0",
+    "mocha": "2.2.5",
+    "react-bootstrap-table-next": "^3.3.5"
+  }
+}
