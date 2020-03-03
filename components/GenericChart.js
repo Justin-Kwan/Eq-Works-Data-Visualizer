@@ -19,7 +19,7 @@ export default class GenericChart extends Component {
   chartRef = React.createRef();
 
   async componentDidMount() {
-		const jsonData = await this.remoteApi.fetchJsonData(this.chartDataUrl);
+    const jsonData = await this.remoteApi.fetchJsonData(this.chartDataUrl);
     const chartData = await this.dataProcessor.processData(jsonData, this.chartContent);
     const chartObj = await this.chartBuilder.buildChart(this.chartType, chartData);
     const myChartRef = this.chartRef.current.getContext("2d");
