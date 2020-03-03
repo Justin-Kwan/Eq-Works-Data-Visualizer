@@ -5,4 +5,5 @@ A simple data visualization web-app that displays API data from EQ-Works API, bu
 - Line, bar and donut charts, displaying several different data sets
 - Data normalization for multi-field  qualitative trend analysis
 
-![Image description](Donut-Chart.jpg)
+![Image description](Multiline-Chart.png)
+![Image description](Donut-Chart.png)
