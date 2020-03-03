@@ -4,6 +4,7 @@ A simple data visualization web-app that displays API data from EQ-Works API, bu
 ## Features
 - Line, bar and donut charts, displaying several different data sets
 - Data normalization for multi-field  qualitative trend analysis
+- Multipage dynamic routes
 
 ![Image description](Multiline-Chart.png)
 ![Image description](Donut-Chart.png)
