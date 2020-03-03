@@ -10,7 +10,7 @@ A simple data visualization web-app that displays API data from EQ-Works API, bu
 
 ## Runnning Locally
 
-Make sure you have Node.js, React and npm installed
+Make sure you have npm, Node.js and React installed
 
     # Clone this repo by typing into your terminal
     $ git clone https://github.com/Justin-Kwan/EQ-Works-Data-Visualizer
