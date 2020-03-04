@@ -7,9 +7,6 @@ class DataProcessor {
 
   constructor() {
     this.dates = [];
-    this.impressions = [];
-    this.clicks = [];
-    this.revenues = [];
     this.chartData = {
       xAxes: undefined,
       datasets: undefined
